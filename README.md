@@ -105,6 +105,9 @@ Occurrences: 2
 First error at: 2025-01-10 10:22:10  
 Last error at: 2025-01-10 10:23:00  
 
+<img width="1920" height="1080" alt="output" src="https://github.com/user-attachments/assets/a1431ad9-54dc-4391-9cb7-23f76eb697c1" />
+
+
 ---
 
 ## 🧩 How It Works
@@ -142,5 +145,6 @@ It shows the ability to work with files, analyze patterns, and generate useful i
 
 Santhosh M  
 Aspiring Backend Developer  
+
 
 
