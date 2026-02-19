@@ -75,7 +75,7 @@ README.md              # Documentation
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/smart-log-analyzer-cli-dev-tool-.git
+git santhosh008015 https://github.com/YOUR_USERNAME/smart-log-analyzer-cli-dev-tool-.git
 
 2. Navigate into the folder:
 
@@ -142,3 +142,4 @@ It shows the ability to work with files, analyze patterns, and generate useful i
 
 Santhosh M  
 Aspiring Backend Developer  
+
