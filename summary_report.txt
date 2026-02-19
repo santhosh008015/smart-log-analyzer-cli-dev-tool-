@@ -1,0 +1,12 @@
+LOG ANALYSIS SUMMARY
+----------------------
+Total logs: 5
+INFO logs: 2
+WARNING logs: 1
+ERROR logs: 2
+
+Most frequent error: Database connection failed
+Occurrences: 2
+
+First error time: 2025-01-10 10:22:10
+Last error time: 2025-01-10 10:23:00
