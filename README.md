@@ -1,4 +1,4 @@
-# Smart Log Analyzer CLI
+# Smart Log Analyzer CLI (Dev Tool)
 
 A production-style Python command-line tool that analyzes server log files and generates actionable insights such as error frequency, log distribution, and timeline analysis.
 
@@ -61,7 +61,7 @@ Build a system that can:
 
 ## 📂 Project Structure
 
-smart-log-analyzer-cli/
+smart-log-analyzer-cli-dev-tool-/
 
 log_analyzer.py        # Main script  
 log.txt                # Sample input log file  
@@ -75,11 +75,11 @@ README.md              # Documentation
 
 1. Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/smart-log-analyzer-cli.git
+git clone https://github.com/YOUR_USERNAME/smart-log-analyzer-cli-dev-tool-.git
 
 2. Navigate into the folder:
 
-cd smart-log-analyzer-cli
+cd smart-log-analyzer-cli-dev-tool-
 
 3. Run:
 
@@ -142,4 +142,3 @@ It shows the ability to work with files, analyze patterns, and generate useful i
 
 Santhosh M  
 Aspiring Backend Developer  
-
