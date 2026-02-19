@@ -52,7 +52,7 @@ Build a system that can:
 
 ## 🛠 Tech Stack
 
-- Python 3.x  
+- Python 3.14.0
 - File Handling  
 - Dictionaries  
 - Command Line Interface (CLI)  
@@ -142,3 +142,4 @@ It shows the ability to work with files, analyze patterns, and generate useful i
 
 Santhosh M  
 Aspiring Backend Developer  
+
